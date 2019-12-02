@@ -18,6 +18,11 @@
 for PCB ver0.01 452019 */
 #define MATRIX_ROW_PINS { F6, B3, B2, B6 }
 #define MATRIX_COL_PINS { F4, F5, B5, B4, E6, D7, C6, D4, D0, D1 }
+/*
+for pro micro facing back of pcb
+#define MATRIX_ROW_PINS { D4, E6, B4, B5 }
+#define MATRIX_COL_PINS { D1, D0, B6, B2, B3, B1, F7, F6, F5, F4 }
+*/
 #define UNUSED_PINS
 
 /* COL2ROW or ROW2COL */
