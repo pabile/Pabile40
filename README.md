@@ -3,4 +3,6 @@
 
 ![prototype photo1](https://github.com/pabile/Pabile40/blob/master/_bak/web-DSCN9033.jpg)
 
+sample .hex file at _bak folder.
+
 https://pabileonline.blogspot.com/search/label/pabile40
