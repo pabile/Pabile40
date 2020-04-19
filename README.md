@@ -1,6 +1,6 @@
 # P40 
 
-[Please follow this repository instead](https://github.com/pabile/qmk_firmware/tree/master/keyboards/pabile/p40)
+[This only serves as my back and is no longer updated. Please follow this repository instead](https://github.com/pabile/qmk_firmware/tree/master/keyboards/pabile/p40)
 
 A compact 4x10 (40%) staggered DIY keyboard kit
 
